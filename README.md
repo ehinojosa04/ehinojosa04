@@ -66,4 +66,8 @@ Oracle Cloud Infrastructure — Architect Associate · AI Foundations · Generat
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehinojosa04&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehinojosa04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ehinojosa04&theme=tokyonight&no-frame=true&row=1&column=6)
+
 </div>
